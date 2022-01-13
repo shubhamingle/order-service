@@ -23,4 +23,4 @@ Table in MySQL
 
 ![image](https://user-images.githubusercontent.com/37982804/149362788-7ba005ad-660b-4f20-b5ed-ea7a076eca13.png)
 
-Note: Make sure you modify database name, username and password as per yours.
+Note: Make sure you modify database name, username and password as per yours in application.properties.
